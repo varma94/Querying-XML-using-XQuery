@@ -1,0 +1,1 @@
+<numberOfItemsInAllContinents>Count : {count(doc("auction.xml")/site/regions/*/item)}</numberOfItemsInAllContinents>
